@@ -16,7 +16,7 @@ if (mysqli_connect_errno()){
 	<!DOCTYPE html>
 <html>
 <head>
-	<title>تعليم عسير- البوابة الالكترونية</title>
+	<title></title>
 </head>
 <body>
 
